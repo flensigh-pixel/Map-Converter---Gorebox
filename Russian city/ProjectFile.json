@@ -1,0 +1,33 @@
+{
+    "version": 4,
+    "name": "Russian city ",
+    "description": "Russian city ",
+    "lastModified": "06/09/2026",
+    "selectedAmbience": 0,
+    "spawnPoints": [
+        {
+            "position": {
+                "x": 1.0876073837280274,
+                "y": 3.138779902656097e-7,
+                "z": -15.867000579833985
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 227.42340087890626,
+                "z": 0.0
+            }
+        }
+    ],
+    "skySettings": {
+        "skyboxIndex": 0,
+        "lightRotation": {
+            "x": 60.000003814697269,
+            "y": 160.0,
+            "z": 0.0
+        },
+        "lightIntensity": 1.399999976158142,
+        "fogStart": 50.0,
+        "fogEnd": 400.0,
+        "fogColorHex": "DFEEFF"
+    }
+}
